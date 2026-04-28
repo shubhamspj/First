@@ -24,3 +24,7 @@ This project is perfect for learning basic web development and showcasing on you
 ---
 
 ## 📁 Project Structure
+shopping-website/
+│── index.html
+│── style.css
+│── images/
